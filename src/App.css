@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.joseph-thumb {
+  background-color: white;
+  color: red;
+  border-color: red;
+}
